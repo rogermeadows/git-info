@@ -24,3 +24,4 @@ service for git repositories are used in this documentation.
 
 **To be completed**
 
+NOTE: added on AWS cloud9 to test writing to github repo 8/30/22
